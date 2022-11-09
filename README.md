@@ -1,2 +1,2 @@
 # Network-Community MEAN application.
-Simple news aggregation, content rating, and discussion website.
+MEAN posts aggregation, thought exchange, and discussion website.
